@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "Milliken Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University &rarr; LMU."
+excerpt: "Milliken Lab &rarr; McMaster University."
 sitemap: false
 permalink: /
 ---
